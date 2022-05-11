@@ -1,0 +1,27 @@
+git config --global user.name sumon
+git config --global user.name
+git config --global user.email sumonghoshinfo@gmail.com
+git config --global user.email
+
+git init
+
+ls
+ls -a (hidden File)
+
+ls -lart
+
+touch index.html
+
+git add index.html
+
+git add -A
+
+git reset
+
+git add.
+
+vs code A means staged code
+
+
+
+
