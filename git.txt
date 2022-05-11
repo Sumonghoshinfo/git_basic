@@ -34,3 +34,17 @@ git log
 git rm test.txt -f
 
 touch .gitignore
+git add -A
+git commit -m "gitignore added"
+
+write inside gitignore file (img/),css/bootstrap.css
+
+
+all time master branch
+$ git branch
+
+make branch & switched togather
+$ git checkout -b main
+
+only switched 
+$ git checkout mini
