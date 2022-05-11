@@ -25,4 +25,8 @@ vs code A means staged code
 when left side clear that means  (unmodified)
 when edit this left side M means (Modified)
 
+git checkout (means all file back)
+git checkout -f (means all file back)
+git checkout index.html(means only index.html back)
 
+git log
