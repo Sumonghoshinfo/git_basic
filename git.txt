@@ -30,3 +30,7 @@ git checkout -f (means all file back)
 git checkout index.html(means only index.html back)
 
 git log
+
+git rm test.txt -f
+
+touch .gitignore
