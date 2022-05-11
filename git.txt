@@ -22,6 +22,7 @@ git add.
 
 vs code A means staged code
 
-
+when left side clear that means  (unmodified)
+when edit this left side M means (Modified)
 
 
