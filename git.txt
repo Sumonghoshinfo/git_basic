@@ -31,6 +31,15 @@ git checkout index.html(means only index.html back)
 
 git log
 
-git rm test.txt -f
+$git rm test.txt -f
 
-touch .gitignore
+$touch .gitignore
+
+$ git merge master 
+
+$ git merge master -m "Comment"
+# when exiting another branch
+$ git merge master -m "Comment"
+
+
+
