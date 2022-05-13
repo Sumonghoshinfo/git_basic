@@ -43,3 +43,21 @@ $ git merge master -m "Comment"
 
 
 
+<<<<<<< HEAD
+=======
+touch .gitignore
+git add -A
+git commit -m "gitignore added"
+
+write inside gitignore file (img/),css/bootstrap.css
+
+
+all time master branch
+$ git branch
+
+make branch & switched togather
+$ git checkout -b main
+
+only switched 
+$ git checkout mini
+>>>>>>> mini
